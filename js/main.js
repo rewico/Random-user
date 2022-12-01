@@ -31,3 +31,5 @@ const getUser = () => {
 
 window.addEventListener("load", getUser);
 elBtnGetUser.addEventListener("click", getUser);
+
+// Test for github
